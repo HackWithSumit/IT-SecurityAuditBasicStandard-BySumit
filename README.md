@@ -28,6 +28,17 @@ A security audit works by testing whether your organization’s information syst
 The audit will result in a report with observations, recommended changes, and other details about your security program. The audit report may describe specific security vulnerabilities or reveal previously undiscovered security breaches. These findings can then be used to inform your cybersecurity risk management approach. Most of the time, auditors will rank their findings in order of priority — it’s up to your organization’s stakeholders to determine if those priorities align with the business’s strategies and objectives.
 
 
+<h2><b>What Is the Main Purpose of a Security Audit? Why Is It Important?</h2></b>
+
+A security audit will provide a roadmap of your organization’s main information security weaknesses and identify where it is meeting the criteria the organization has set out to follow and where it isn’t. Security audits are crucial to developing risk assessment plans and mitigation strategies for organizations dealing with sensitive and confidential data. 
+
+Successful security audits should give your team a snapshot of your organization’s security posture at that point in time and provide enough detail to give your team a place to start with remediation or improvement activities. Some security-centric audits may also serve as formal compliance audits, completed by a third-party audit team for the purpose of certifying against ISO 27001 or receiving a SOC 2 attestation, for example.
+
+Security audits also provide your organization with a different view of IT security practices and strategy, whether they are conducted by an internal audit function or through an external audit. Having your organization’s security policies scrutinized can provide valuable insights into how to implement better controls or streamline existing processes. With cyber-attacks coming from every angle and some threats originating internally, having a faceted view of cybersecurity amplifies an organization’s capability to respond to security threats.
+
+Security audits are an important tool and method for operating an up-to-date and effective information security program.
+
+
 
 
 
